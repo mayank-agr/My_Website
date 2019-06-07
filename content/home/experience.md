@@ -17,28 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "Georgia Institute of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Atlanta, GA"
+  date_start = "2015-01-05"
+  date_end = ""
+ # description = """Taught electronic engineering and researched semiconductor physics."""
+ 
+[[experience]]
+  title = "Summer Intern"
+  company = "Praxair Inc."
+  company_url = ""
+  location = "Tonawanda, NY"
+  date_start = "2017-05-21"
+  date_end = "2017-08-04"
+  description = """Developed a gPROMS based PSA process for syn-gas purifier to replace conventional technology. Analyzed the feasibility of the new process and proposed a cost effective model for two-layer packed bed reactor to achieve desired product purity and high recovery."""
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+
 
 +++
