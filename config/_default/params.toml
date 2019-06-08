@@ -53,6 +53,10 @@ time_format = "3:04 PM"
 email = "magrawal5@gatech.edu"
 phone = "404-784-7524"
 address = "311 Ferst Dr NW, Georgia Institute of Technology, Atlanta GA 30332"
+skype = "benmarwick"
+telegram = "benmarwick"
+github = "benmarwick"
+twitter = "benmarwick"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
