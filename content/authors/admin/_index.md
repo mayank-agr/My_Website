@@ -15,7 +15,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations
 organizations:
 - name: Georgia Institute of Technology
-  url: ""
+  url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research include atomistic simulation of nano-porous materials.
@@ -61,7 +61,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "magrawal5@gatech.edu"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,4 +70,4 @@ email: "magrawal5@gatech.edu"
 #- Visitors
 ---
 
-Mayank Agrawal is a Ph.D. candidate in Chemical Engineering at [Georgia Institute of Technology](https://chbe.gatech.edu/). His reserch interests include the atomistic modeling of nano-porous materials using first-principle methods as well as classical force-field based simulations.  
+I am a Ph.D. candidate in Chemical Engineering at [Georgia Institute of Technology](https://chbe.gatech.edu/). My reserch interests include the atomistic modeling of nano-porous materials using first-principle methods as well as classical force-field based simulations.  
