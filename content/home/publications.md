@@ -62,6 +62,10 @@ subtitle = ""
 #<h2>2019</h2> 
 #
 #Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay #in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](#http://faculty.washington.edu/bmarwick/PDFs)]
+
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
   
 [advanced]
  # Custom CSS. 
@@ -71,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs)]
