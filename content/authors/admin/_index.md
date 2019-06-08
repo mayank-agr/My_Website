@@ -15,7 +15,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations
 organizations:
 - name: Georgia Institute of Technology
-  url: "https://www.gatech.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research include atomistic simulation of nano-porous materials.
