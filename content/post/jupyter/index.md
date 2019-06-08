@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Display Jupyter Notebooks with Academic
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
@@ -23,7 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
+--- -->
 
 
 ```python
