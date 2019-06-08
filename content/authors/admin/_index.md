@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-I am a Ph.D. candidate in Chemical Engineering at [Georgia Institute of Technology](https://chbe.gatech.edu/). My reserch interests include the atomistic modeling of nano-porous materials using first-principle methods as well as classical force-field based simulations.  
+I am a Ph.D. candidate in Chemical Engineering at [Georgia Institute of Technology](https://chbe.gatech.edu/). My research interests include the atomistic modeling of nano-porous materials using first-principle methods as well as classical force-field based simulations.  
