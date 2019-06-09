@@ -23,7 +23,7 @@ bio: My research include atomistic simulation of nano-porous materials.
 interests:
 - Density Functional Theory
 - Molecular Dynamics
-- Monte Carlo
+- Monte Carlo Simulations
 
 education:
   courses:
