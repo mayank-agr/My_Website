@@ -1,5 +1,5 @@
 ---
-title: "Liquid Phase Multicomponent Separation of Xylene Mixtures by Flexible MIL-53 Adsorbents"
+title: "Effect of intrinsic flexibility on adsorption properties of metal-organic frameworks at dilute and non-dilute loadings"
 authors:
 - admin
 - David S. Sholl
