@@ -1,5 +1,5 @@
 ---
-title: "Effect of intrinsic flexibility on adsorption properties of metal-organic frameworks at dilute and non-dilute loadings"
+title: "Effect of Intrinsic Flexibility on Adsorption Properties of Metal-Organic Frameworks at Dilute and Non-dilute Loadings"
 authors:
 - admin
 - David S. Sholl
