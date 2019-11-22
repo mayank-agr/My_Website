@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research include atomistic simulation of nano-porous materials.
+bio: My research include atomistic simulation of nano-porous materials for separation and catalysis.
 
 interests:
 - Density Functional Theory
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Chemical Engineering
+    institution: Georgia Institute of Technology
+    year: 2019
   - course: MS in Chemical & Biomolecular Engineering
     institution: Georgia Institute of Technology
     year: 2019
