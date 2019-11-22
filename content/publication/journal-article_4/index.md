@@ -21,7 +21,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 #publication: "*The Journal of Physical Chemistry Letters,* 11 (34), 31060-31068"
 publication: "*The Journal of Physical Chemistry Letters,* Accepted"
-publication_short: "J. Phys. Chem. Lett."
+publication_short: ""
 
 abstract: Metal-organic frameworks (MOFs) have shown potential for selective capture of chemical warfare agents (CWAs). To determine characteristic adsorption times, the kinetics of CWAs uptake in MOFs must be known. Here, we calculate diffusion coefficients of the CWA sarin and simulants in prototypical MOFs using molecular simulations. Sarin can diffuse throughout a one micron crystal in less than a second in MIL-47 and Cu-BTC but this process takes more than 3 hours in ZIF-8 and UiO-66. A simple estimate based on Knudsen diffusion is able to describe diffusion of sarin in MIL-47 but fails to do so in other MOFs. This work has implications in designing devices to detect and capture CWAs.
 
