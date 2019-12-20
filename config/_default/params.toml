@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mayank_agrawal@brown.edu"
 phone = ""
-address = "184 Hope Street, <br>Box D, <br>School of Engineering, Brown University, <br>Providence RI 02912"
+address = "184 Hope Street, <br>Box D, <br>Brown University, <br>Providence RI 02912"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
