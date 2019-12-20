@@ -23,21 +23,22 @@ bio: My research include atomistic simulation of nano-porous materials for separ
 interests:
 - Density Functional Theory
 - Molecular Dynamics
-- Monte Carlo Simulations
+- Monte Carlo Methods
+- Machine Learning
 
 education:
   courses:
   - course: Ph.D. in Chemical Engineering
-    institution: Georgia Institute of Technology
+    institution: Georgia Institute of Technology, Atlanta, USA
     year: 2019
   - course: MS in Chemical & Biomolecular Engineering
-    institution: Georgia Institute of Technology
+    institution: Georgia Institute of Technology, Atlanta, USA
     year: 2019
   - course: MTech in Chemical Engineering
-    institution: Indian Institute of Technology Delhi
+    institution: Indian Institute of Technology Delhi, New Delhi, India
     year: 2014
   - course: BTech in Chemical Engineering
-    institution: Indian Institute of Technology Delhi
+    institution: Indian Institute of Technology Delhi, New Delhi, India
     year: 2014
 
 # Social/Academic Networking
