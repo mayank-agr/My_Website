@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: Brown University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -58,20 +58,20 @@ social:
   icon_pack: fab
   link: https://github.com/mayank-agr
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
 #- Researchers
 #- Visitors
 ---
 
-I am a PhD candidate in Chemical Engineering at [Georgia Institute of Technology](https://chbe.gatech.edu/). My research interests include the atomistic modeling of nano-porous materials using first-principle methods as well as classical force-field based simulations.<br><br>
-My PhD research focuses on the modeling of [Metal-Organic Frameworks](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework/) (MOFs) for adsorption and kinetic separation of various gases. MOFs are an extremely diverse set of intrinsically flexible nanoporous materials that allow for a rich set of computational studies. In my research, I perform high-throughput screening of MOFs for contaminant removal, and study the effect of the flexibility in MOFs on their adsorption and diffusion properties. Most of this work is directed towards finding new materials for real world engineering applications and accurately predicting their properties using computational simulations. 
+I am a postdoc in Chemical Engineering at [Brown University](https://www.brown.edu/academics/engineering/). My research includes atomistic simulations accelerated using machine learning methods to study liquid phase catalysis for CO desorption.<br><br>
+I completed my PhD from [Georgia Institute of Technology](https://chbe.gatech.edu/). My PhD research focused on the modeling of [Metal-Organic Frameworks](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework/) (MOFs) for adsorption and kinetic separation of various gases. MOFs are an extremely diverse set of intrinsically flexible nanoporous materials that allow for a rich set of computational studies. I performed high-throughput screening of MOFs for contaminant removal, and studied the effect of the flexibility in MOFs on their adsorption and diffusion properties. Most of this work is directed towards finding new materials for real world engineering applications and accurately predicting their properties using computational simulations.
