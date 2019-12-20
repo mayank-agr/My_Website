@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "School of Engineering, Brown University"
   company_url = ""
   location = "Atlanta, GA"
-  date_start = "2019-01-01"
+  date_start = "2020-01-01"
   date_end = ""
 
 [[experience]]
