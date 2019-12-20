@@ -17,6 +17,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Postdoctoral Research Associate"
+  company = "School of Engineering, Brown University"
+  company_url = ""
+  location = "Atlanta, GA"
+  date_start = "2019-01-01"
+  date_end = ""
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -24,9 +31,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Atlanta, GA"
   date_start = "2015-01-05"
-  date_end = ""
+  date_end = "2019-12-14"
  # description = """Taught electronic engineering and researched semiconductor physics."""
- 
+
 [[experience]]
   title = "Summer Intern"
   company = "Praxair Inc."
@@ -36,7 +43,7 @@ date_format = "Jan 2006"
   date_end = "2017-08-04"
   description = """Developed a gPROMS based PSA process for syn-gas purifier to replace conventional technology. Analyzed the feasibility of the new process and proposed a cost effective model for two-layer packed bed reactor to achieve desired product purity and high recovery."""
 #  Responsibilities include:
-#  
+#
 #  * Analysing
 #  * Modelling
 #  * Deploying
