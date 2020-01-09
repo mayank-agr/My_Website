@@ -18,7 +18,7 @@ publishDate: "2019-01-08"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of National Academy of Sciences,* Accepted"
+publication: "*Proceedings of National Academy of Sciences U.S.A.,* 201918484"
 publication_short: ""
 
 abstract: Finding examples where experimental measurements have been repeated is a powerful strategy for assessing reproducibility of scientific data. Here, we collect quantitative data to assess how often synthesis of a newly reported material is repeated in the scientific literature. We present a simple power law model for the frequency of repeat syntheses and assess the validity of this model using a specific class of materials, metal-organic frameworks (MOFs). Our data suggests that a power law describes the frequency of repeat synthesis of many MOFs but that a small number of “supermaterials” exist that have been replicated many times more than a power law would predict. Our results also hint that there are many repeat syntheses that have been performed but not reported in the literature, which suggests simple steps that could be taken to greatly increase the number of reports of replicate experiments in materials chemistry.
