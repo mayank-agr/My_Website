@@ -5,11 +5,11 @@ authors:
 - Rebecca Han
 - Dinushka Herath
 - David S. Sholl
-date: "2019-12-23"
-doi: "10.1021/acs.jpclett.9b03119"
+date: "2019-12-26"
+doi: "10.1073/pnas.1918484117"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-19"
+publishDate: "2019-01-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsami.9b10622
+url_pdf: https://www.pnas.org/content/pnas/early/2019/12/24/1918484117.full.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
