@@ -19,9 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Research Associate"
-  company = "School of Engineering, Brown University"
+  company = "Brown University School of Engineering"
   company_url = ""
-  location = "Atlanta, GA"
+  location = "Providence, RI"
+  date_start = "2020-01-01"
+  date_end = ""
+  
+[[experience]]
+  title = "Research Affiliate"
+  company = "MIT Chemistry Department"
+  company_url = ""
+  location = "Boston, MA"
   date_start = "2020-01-01"
   date_end = ""
 
