@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Physical Chemistry Chemical Physics,* Accepted"
-publication_short: ""
+publication_short: "PCCP"
 
 abstract: Molecular modeling of mixture adsorption in nanoporous materials can provide insight into the molecular-level details that underlie adsorptive separations. Modeling of adsorption often employs a rigid framework approximation for computational convenience. All real materials, however, have intrinsic flexibility due to thermal vibrations of their atoms. In this article, we examine quantitative predictions of the adsorption selectivity for a dilute concentration of a chemical warfare agent, sarin, from bulk mixtures with aqueous and non-aqueous (methanol, isopropyl alcohol) solvents using metal–organic frameworks (MOFs). These predictions were made in MOFs approximated as rigid and also in MOFs allowed to have intrinsic flexibility. Including framework flexibility appears to have important conse- quences for quantitative predictions of adsorption selectivity, particularly for sarin/water mixtures. Our observations suggest the intrinsic flexibility of MOFs can have a nontrivial impact on adsorption modeling of molecular mixtures, specifically for mixtures containing polar species and molecules of different sizes.
 
