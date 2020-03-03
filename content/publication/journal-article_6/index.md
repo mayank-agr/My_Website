@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsami.9b10622
+url_pdf: https://doi.org/10.1039/c9cp06788d
 url_code: ''
 url_dataset: ''
 url_poster: ''
