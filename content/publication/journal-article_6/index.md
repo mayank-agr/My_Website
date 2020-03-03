@@ -1,5 +1,5 @@
 ---
-title: "Does Repeat Synthesis in Materials Chemistry Obey a Power Law?"
+title: "Impact of Intrinsic Framework Flexibility for Selective Adsorption of Sarin in Non-aqueous Solvents Using Metal-organic Frameworks"
 authors:
 - Jongwoo Park
 - admin
