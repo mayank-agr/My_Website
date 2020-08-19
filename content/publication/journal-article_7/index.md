@@ -10,7 +10,7 @@ authors:
 - Ryotaro Matsuda
 - Wei-Lun Hsu
 - Hirofumi Daiguji
-date: "2020-06-29"
+date: "2020-07-09"
 doi: "10.1021/acsomega.0c01267"
 
 # Schedule page publish date (NOT publication's date).
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1021/acsomega.0c01267
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsomega.0c01267
 url_code: ''
 url_dataset: ''
 url_poster: ''
