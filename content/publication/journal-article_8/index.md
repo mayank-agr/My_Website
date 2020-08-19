@@ -1,15 +1,19 @@
 ---
-title: "Experimentally-Verified Alcohol Adsorption Isotherms in Nanoporous Materials from Literature Meta-analysis"
+title: "Molecular simulation study on the flexibility in the interpenetrated metal–organic framework LMOF-201 using reactive force field"
 authors:
-- Lukas W. Bingel
-- Andrew Chen
+- Ankit Agrawal
 - admin
-- David S. Sholl
-date: "2020-06-29"
-doi: "10.1039/c9cp06788d"
+- Donguk Suh
+- Yunsheng Ma
+- Ryotaro Matsuda
+- Akira Endo
+- Wei-Lun Hsu
+- Hirofumi Daiguji
+date: "2020-07-22"
+doi: "10.1039/C9TA12065C"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-29"
+publishDate: "2020-08-19"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +22,10 @@ publishDate: "2020-06-29"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Chemical & Engineering Data,* (under review)"
+publication: "*Journal of Materials Chemistry A,* 8, 16385-16391"
 publication_short: ""
 
-abstract: Systematic collection of replicate experimental data via literature meta-analysis is a powerful approach for assessing the reproducibility of physical properties data. In this paper we use meta-analysis to examine the adsorption equilibrium of alcohols in porous materials using a collection of more than 500 alcohol isotherm measurements. We report consensus isotherms (after rejecting outliers) using experimentally measured replicates for eleven systems with methanol, ethanol, 1-propanol, or 2-methylpropan-1-ol adsorption as well as assess experimental reproducibility for another 50 systems with these adsorbates, 1-butanol or 2-phenylethan-1-ol. Our analysis indicates that ~20% of reported adsorption isotherms for alcohols are outliers, an observation that is similar to earlier analyses of CO2 adsorption experiments. We compare a variety of replicate experiments using metal-organic framework adsorbents with predictions from molecular simulations using generic force fields in order to examine the ability of these simulations to predict alcohol adsorption in these materials.
+abstract: Framework flexibility is one of the most important characteristics of metal–organic frameworks (MOFs), making them highly suitable for adsorption applications. There have been a limited number of computational efforts to study flexible MOFs in the literature, and they are mostly focused on MIL-53. We studied a flexible MOF known as LMOF-201, which was found to exhibit guest-induced flexible properties; however, the mechanism of the appearance of flexibility is still unclear. First, we validated our simulation results by reproducing the experimental isotherm and powder X-ray diffraction measurements of experimental structures using grand canonical Monte Carlo (GCMC) and reactive force field (ReaxFF) molecular dynamics (MD) simulations. Then, we demonstrated the importance of the presence of a carbonyl oxygen atom in LMOF-201 to induce flexibility. The mechanism determined in this study will enable LMOF-201 to be considered for adsorption applications in the future.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex #sollicitudin condimentum.
 
@@ -32,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1039/c9cp06788d
+url_pdf: https://doi.org/10.1039/C9TA12065C
 url_code: ''
 url_dataset: ''
 url_poster: ''
