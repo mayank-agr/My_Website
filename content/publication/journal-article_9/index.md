@@ -5,8 +5,8 @@ authors:
 - Andrew Chen
 - admin
 - David S. Sholl
-date: "2020-06-29"
-doi: "10.1039/c9cp06788d"
+date: "2020-09-13"
+doi: "10.1021/acs.jced.0c00598"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-29"
@@ -18,7 +18,7 @@ publishDate: "2020-06-29"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Chemical & Engineering Data,* (under review)"
+publication: "*Journal of Chemical & Engineering Data,* (Accepted)"
 publication_short: ""
 
 abstract: Systematic collection of replicate experimental data via literature meta-analysis is a powerful approach for assessing the reproducibility of physical properties data. In this paper we use meta-analysis to examine the adsorption equilibrium of alcohols in porous materials using a collection of more than 500 alcohol isotherm measurements. We report consensus isotherms (after rejecting outliers) using experimentally measured replicates for eleven systems with methanol, ethanol, 1-propanol, or 2-methylpropan-1-ol adsorption as well as assess experimental reproducibility for another 50 systems with these adsorbates, 1-butanol or 2-phenylethan-1-ol. Our analysis indicates that ~20% of reported adsorption isotherms for alcohols are outliers, an observation that is similar to earlier analyses of CO2 adsorption experiments. We compare a variety of replicate experiments using metal-organic framework adsorbents with predictions from molecular simulations using generic force fields in order to examine the ability of these simulations to predict alcohol adsorption in these materials.
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1039/c9cp06788d
+url_pdf: https://doi.org/10.1021/acs.jced.0c00598
 url_code: ''
 url_dataset: ''
 url_poster: ''
