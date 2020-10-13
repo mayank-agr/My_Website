@@ -18,7 +18,7 @@ publishDate: "2020-06-29"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Chemical & Engineering Data,* (Accepted)"
+publication: "*Journal of Chemical & Engineering Data,* 65, 10, 4970–4979"
 publication_short: ""
 
 abstract: Systematic collection of replicate experimental data via literature meta-analysis is a powerful approach for assessing the reproducibility of physical properties data. In this paper we use meta-analysis to examine the adsorption equilibrium of alcohols in porous materials using a collection of more than 500 alcohol isotherm measurements. We report consensus isotherms (after rejecting outliers) using experimentally measured replicates for eleven systems with methanol, ethanol, 1-propanol, or 2-methylpropan-1-ol adsorption as well as assess experimental reproducibility for another 50 systems with these adsorbates, 1-butanol or 2-phenylethan-1-ol. Our analysis indicates that ~20% of reported adsorption isotherms for alcohols are outliers, an observation that is similar to earlier analyses of CO2 adsorption experiments. We compare a variety of replicate experiments using metal-organic framework adsorbents with predictions from molecular simulations using generic force fields in order to examine the ability of these simulations to predict alcohol adsorption in these materials.
