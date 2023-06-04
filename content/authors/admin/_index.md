@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Principal Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Brown University
+- name: Taiwan Semiconductor Manufacturing Company, Technology Inc.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research include atomistic simulation of nano-porous materials for separation and catalysis.
+bio: My current work include ML accelerated atomistic simulation of semiconductor materials.
 
 interests:
 - Density Functional Theory
 - Molecular Dynamics
 - Monte Carlo Methods
-- Machine Learning
+- Deep Learning
 
 education:
   courses:
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mayank_agrawal@brown.edu"
+  link: "mailto:gatech.mayank@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,5 +74,5 @@ email: ""
 #- Visitors
 ---
 
-I am a postdoctoral researcher at [Catalyst Design Lab](https://www.brown.edu/Departments/Engineering/Labs/Peterson/), [Brown University](https://www.brown.edu/academics/engineering/). My research includes atomistic simulations accelerated using machine learning methods to study electrocatalytic CO desorption.<br><br>
+I am currently a Principal Engineer in TCAD department of TSMC Technology Inc. My research work includes using ML-accelerated atomistic simulations methods to explore new semiconductor systems. Previously, I did my postdoctoral research at [Catalyst Design Lab](https://www.brown.edu/Departments/Engineering/Labs/Peterson/), [Brown University](https://www.brown.edu/academics/engineering/) where I studied electrocatalytic CO desorption using rare sampling methods.<br><br>
 I completed my PhD in Chemical Engineering from [Georgia Institute of Technology](https://chbe.gatech.edu/). My PhD research focused on the modeling of [Metal-Organic Frameworks](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework/) (MOFs) for adsorption and kinetic separation of various gases. MOFs are an extremely diverse set of intrinsically flexible nanoporous materials that allow for a rich set of computational studies. I performed high-throughput screening of MOFs for contaminant removal, and studied the effect of the flexibility in MOFs on their adsorption and diffusion properties. Most of this work is directed towards finding new materials for real world engineering applications and accurately predicting their properties using computational simulations.
